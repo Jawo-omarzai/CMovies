@@ -1,2 +1,0 @@
-# CMovies
-CRUD_OP_FOR_MOVIES
